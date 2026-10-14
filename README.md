@@ -1,3 +1,1 @@
-<div align="center">
-<a href="https://github.com/whiteSHADOW1234/TypingSVG"><img src="https://typingsvg.vercel.app/api/svg?width=200&height=50&backgroundOpacity=0&border=false&lines=%5B%7B%22text%22%3A%22	I shall destroy the world for taking everything from me...!+love++%22%2C%22font%22%3A%22Monospace%22%2C%22color%22%3A%22%23ff4800%22%2C%22fontSize%22%3A15%2C%22typingSpeed%22%3A0.2%2C%22deleteSpeed%22%3A0.2%2C%22fontWeight%22%3A%2215%22%7D%5D" alt="Typing SVG" /></a>
-  <br><br>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Scrip&weight=100&size=15&pause=1000&color=A2A2A2&width=435&lines=%22%F0%9D%91%87%E2%84%8E%F0%9D%91%96%F0%9D%91%9B%F0%9D%91%98+%F0%9D%91%8E%F0%9D%91%8F%F0%9D%91%9C%F0%9D%91%A2%F0%9D%91%A1+%F0%9D%91%96%F0%9D%91%A1+%F0%9D%91%A1%E2%84%8E%F0%9D%91%96%F0%9D%91%A0+%F0%9D%91%A4%F0%9D%91%8E%F0%9D%91%A6%2C+%F0%9D%91%91%F0%9D%91%8E%F0%9D%91%9F%F0%9D%91%99%F0%9D%91%96%F0%9D%91%9B%F0%9D%91%94.%22)
