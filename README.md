@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Libre+Caslon+Condensed&letterSpacing=6px&duration=3000&pause=1500&color=664A7C&multiline=true&width=435&lines=I+shall+destroy+the+world+for+taking+everything+from+me...!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Libre+Caslon+Condensed&letterSpacing=6px&duration=3000&pause=1500&color=664A7C&multiline=true&width=435&lines=I+shall+destroy+the+world+for+taking+everything+from+me...!)]
