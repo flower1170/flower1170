@@ -3,4 +3,4 @@
   <img width="768" height="431" alt="Image" src="https://github.com/user-attachments/assets/e85b8e10-83bc-4c34-88f9-5431401a0568"/>
  
   <code style="color : purple">bobby / ananas / flower
-  <code style="color : purple">pronouns: he/him, she/her (they/it only when you refer to me as ananas dragon, or universally)
+  <code style="color : purple">pronouns: he/him, she/her (they/it only when you refer to me as ananas dragon, or universally/generic (?))
