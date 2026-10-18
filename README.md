@@ -8,5 +8,5 @@
   <code style="color : purple"> strawpage is currently wip as i am a lazy bum so excuse that.
   <code style="color : purple">doubles iwc, i love seeing more ananas cosplayers, im just sometimes uncomfortable with some of em :<
   <code style="color : purple">iwc if under 13, over 25
-  <code style="color : purple"> DNI IF YOURE TRANSPHOBIC, HOMOPHOBIC, RACIST, A PEDOPHILE, and similliar! :P
+  <code size="10 : purple"> DNI IF YOURE TRANSPHOBIC, HOMOPHOBIC, RACIST, A PEDOPHILE, and similliar! :P
   
