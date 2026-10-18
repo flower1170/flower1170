@@ -2,7 +2,7 @@
 <div align=center> 
   <img width="768" height="431" alt="Image" src="https://github.com/user-attachments/assets/e85b8e10-83bc-4c34-88f9-5431401a0568"/>
  <p align="center">
-pronouns: bobby / ananas / flower
+ bobby / ananas / flower
 </p>
   <p align="center">
 pronouns: he/him, she/her (they/it only when you refer to me as ananas dragon, or universally/general(?))
